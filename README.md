@@ -5,8 +5,8 @@ A responsive photo gallery web application built for the Celebrare Frontend Inte
 This project fetches images from a public API, displays them in a fully responsive grid, allows real-time author search, and includes a persistent favorites system. Built with a focus on clean architecture, performance optimization, and a premium minimalist UI.
 
 ## 🚀 Live Demo & Video Explanation
-* **Video Walkthrough:** [Insert your Google Drive / YouTube unlisted link here]
-* **Live Site:** [Insert Vercel/Netlify link if you deployed it, otherwise delete this line]
+* **Video Walkthrough:** https://youtu.be/oyYTz9Xvjds
+* **Live Site:** 
 
 ## ✨ Key Features (Assignment Requirements)
 1. **Custom Data Fetching:** Utilizes a custom `useFetchPhotos` hook to handle API calls, loading states, and error handling from the Picsum API.
