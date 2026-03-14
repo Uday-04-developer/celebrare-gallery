@@ -6,7 +6,7 @@ This project fetches images from a public API, displays them in a fully responsi
 
 ## 🚀 Live Demo & Video Explanation
 * **Video Walkthrough:** https://youtu.be/oyYTz9Xvjds
-* **Live Site:** 
+* **Live Site:** https://celebrare-gallery.vercel.app/
 
 ## ✨ Key Features (Assignment Requirements)
 1. **Custom Data Fetching:** Utilizes a custom `useFetchPhotos` hook to handle API calls, loading states, and error handling from the Picsum API.
